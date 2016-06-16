@@ -1,0 +1,116 @@
+body {
+  font-family: 'Bubblegum Sans', cursive;
+  background-color: #d2d2d2;
+}
+.wrapper {
+  width: 80vw;
+  height: auto;
+  margin: auto;
+  border-bottom: 10px solid black;
+  background-color: #f1f1f1;
+}
+.me {
+  height:5vw;
+  width:10vw;
+  margin: auto;
+  border-radius: 0 0 10vw 10vw;
+  -moz-border-radius: 0 0 10vw 10vw;
+  -webkit-border-radius: 0 0 10vw 10vw;
+  background: url('http://rulotico.github.io/GifsParty/img/karen.gif') center no-repeat;
+  background-size: 10vw auto;
+}
+.tit {
+  width: 600px;
+  margin: auto;
+}
+.galeria {
+  width: 90%;
+  margin: auto;
+  display: flex;
+  flex-direction: column;
+}
+.nombre {
+  margin-top: 60%;
+  text-align: center;
+  width: 100%;
+  background-color: rgba(0,0,0,0.8);
+  color: #fff;
+  font-size: 1.5em;
+  font-weight: 400;
+}
+.foto {
+  width: 15vw;
+  height: 11vw;
+  margin: 15px;
+  display: inline-block;
+  background: url('http://rulotico.github.io/GifsParty/img/karen.gif') center no-repeat;
+  background-size: 15vw auto;
+  background-color: yellow;
+  border: 1px solid black;
+}
+#rulotico {
+  background: url('http://rulotico.github.io/GifsParty/img/rulotico.gif') center no-repeat;
+  background-size: auto 11vw;
+  background-color: yellow;
+  border: 1px solid black;
+}
+#sherley {
+  background: url('http://rulotico.github.io/GifsParty/img/sherley.gif') center no-repeat;
+  background-size: auto 11vw;
+  background-color: yellow;
+  border: 1px solid black;
+}
+#thrillerzombie {
+  background: url('http://rulotico.github.io/GifsParty/img/thrillerzombie.gif') center no-repeat;
+  background-size: 15vw 11vw;
+  background-color: yellow;
+  border: 1px solid black;
+}
+#armando {
+  background: url('http://rulotico.github.io/GifsParty/img/Simba.gif') center no-repeat;
+  background-size: 15vw auto;
+  background-color: yellow;
+  border: 1px solid black;
+}
+#peter {
+  background: url('http://rulotico.github.io/GifsParty/img/Peter.gif') center no-repeat;
+  background-size: auto 11vw;
+  background-color: yellow;
+  border: 1px solid black;
+}
+#Paco {
+  background: url('http://rulotico.github.io/GifsParty/img/pako.gif') center no-repeat;
+  background-size: 15vw auto;
+  background-color: yellow;
+  border: 1px solid black;
+}
+#leovi {
+  background: url('http://rulotico.github.io/GifsParty/img/leovi.gif') center no-repeat;
+  background-size: auto 11vw;
+  background-color: yellow;
+  border: 1px solid black;
+}
+#jorge {
+  background: url('http://rulotico.github.io/GifsParty/img/jj.gif') center no-repeat;
+  background-size: auto 11vw;
+  background-color: yellow;
+  border: 1px solid black;
+}
+#arturo {
+  background: url('http://rulotico.github.io/GifsParty/img/arturo.gif') center no-repeat;
+  background-size: 15vw auto;
+  background-color: yellow;
+  border: 1px solid black;
+}
+#edgar {
+  background: url('http://rulotico.github.io/GifsParty/img/giphy.gif') center no-repeat;
+  background-size: 15vw auto;
+  background-color: yellow;
+  border: 1px solid black;
+}
+#axel {
+  background: url('http://rulotico.github.io/GifsParty/img/bobe.gif') center no-repeat;
+  background-size: auto 11vw;
+  background-color: yellow;
+  border: 1px solid black;
+}
