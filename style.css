@@ -23,12 +23,12 @@ body {
   color: #fff;
 }
 .me {
-  height:5vw;
-  width:10vw;
+  height:7vw;
+  width:14vw;
   margin: auto;
-  border-radius: 0 0 10vw 10vw;
-  -moz-border-radius: 0 0 10vw 10vw;
-  -webkit-border-radius: 0 0 10vw 10vw;
+  border-radius: 0 0 14vw 14vw;
+  -moz-border-radius: 0 0 14vw 14vw;
+  -webkit-border-radius: 0 0 14vw 14vw;
   background: url('http://rulotico.github.io/GifsParty/img/karen.gif') center no-repeat;
   background-size: cover;
 }
