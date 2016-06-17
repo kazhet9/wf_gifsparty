@@ -40,10 +40,20 @@ body {
   background-size: cover;
 }
 .galeria {
-  width: 90%;
+  max-width: 90%;
   margin: auto;
+  /*display: flex;
+  flex-direction: column;*/
   display: flex;
-  flex-direction: column;
+  display: -webkit-flex;
+  align-items: center;
+  -webkit-align-items: center;
+  justify-content: center;
+  -webkit-justify-content: center;
+  flex-direction: row;
+  -webkit-flex-direction: row;
+  flex-flow: row wrap;
+  -webkit-flex-flow: row wrap;
 }
 .nombre {
   margin-top: 60%;
