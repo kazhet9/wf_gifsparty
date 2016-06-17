@@ -33,8 +33,12 @@ body {
   background-size: cover;
 }
 .tit {
-  width: 600px;
-  margin: auto;
+  text-align: center;
+}
+.tit img {
+  width: 100%;
+  height: auto;
+  display: block;
 }
 .galeria {
   width: 90%;
