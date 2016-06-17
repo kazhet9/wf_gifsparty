@@ -33,12 +33,11 @@ body {
   background-size: cover;
 }
 .tit {
-  text-align: center;
-}
-.tit img {
-  width: 100%;
-  height: auto;
-  display: block;
+  margin: auto;
+  width: 25vw;
+  height: 11vw;
+  background: url('images/title.gif') center no-repeat;
+  background-size: cover;
 }
 .galeria {
   width: 90%;
